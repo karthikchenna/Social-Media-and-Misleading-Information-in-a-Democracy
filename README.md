@@ -21,7 +21,7 @@ Despite growing awareness of the issue, social media companies have limited ince
 This project is motivated by the need for a structured, incentive-aligned solution that goes beyond reactive measures. By leveraging principles from game theory and mechanism design, we aim to explore how rational, self-interested entities—governments and platforms—can be guided toward cooperation in combating misinformation, thereby safeguarding democratic integrity.
 <br>
 <b>Objective</b>
-<br>
+<br><br>
 The primary objective of this project is to design a theoretical and implementable framework that aligns the interests of governments and social media platforms in reducing the spread of misinformation. Using mechanism design, a branch of game theory that focuses on designing systems or rules that lead to desired outcomes even when participants act in their own self-interest, the project aims to:
 <br>
 Model the Strategic Interaction <br>
