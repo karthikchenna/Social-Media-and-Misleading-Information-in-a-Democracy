@@ -9,7 +9,7 @@ Using mechanism design, a concept from economics, I construct a strategic model 
 The project concludes by stating the broader applications of mechanism design and the significance of the proposed solution. Additionally, it touches on the use of machine learning and statistical analysis for personality assessment and opinion mining, highlighting user behavior on social media and its psychological impact.
 
 <br><br>
-<b>Motivation</b>
+<u><b>Motivation</b></u>
 <br>
 In the digital era, social media has transformed how individuals consume news, form opinions, and engage in democratic processes. However, the same platforms that empower connectivity and expression have also become breeding grounds for the rapid dissemination of misinformation. Algorithms optimized for engagement tend to prioritize emotionally charged and sensational content, often at the expense of truth and accuracy. This creates a fertile environment for the spread of conspiracy theories, biased narratives, and outright falsehoods.
 <br><br>
@@ -20,8 +20,8 @@ Despite growing awareness of the issue, social media companies have limited ince
 <br><br>
 This project is motivated by the need for a structured, incentive-aligned solution that goes beyond reactive measures. By leveraging principles from game theory and mechanism design, we aim to explore how rational, self-interested entities—governments and platforms—can be guided toward cooperation in combating misinformation, thereby safeguarding democratic integrity.
 <br><br>
-<b>Objective</b>
-<br><br>
+<u><b>Objective</b></u>
+<br>
 The primary objective of this project is to design a theoretical and implementable framework that aligns the interests of governments and social media platforms in reducing the spread of misinformation. Using mechanism design, a branch of game theory that focuses on designing systems or rules that lead to desired outcomes even when participants act in their own self-interest, the project aims to:
 <br><br>
 -> Model the Strategic Interaction <br>
